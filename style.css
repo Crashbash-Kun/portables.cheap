@@ -12,7 +12,10 @@ html{
   height: 300%;
 }
 h1{
-	
+  font-size: 6em;
+}
+p{
+  font-size: 2em;
 }
 
 #0{
